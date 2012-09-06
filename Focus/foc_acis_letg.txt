@@ -1,0 +1,650 @@
+../Dec99/0811/obsid_0811_Sky_summary.html
+ Start time =  61523378. seconds
+ Width of AX LRF at 10% of peak =    86.4 microns
+ Width of AX LRF at 50% of peak =    38.4 microns
+ Width of Streak LRF at 10% of peak =   888.0 microns
+ Width of Streak LRF at 50% of peak =    38.4 microns
+ Gaussian fit FWHM =    45.1 microns
+ Gaussian fit FWHM =    43.8 microns
+        FWHM error =     0.2 microns
+        FWHM error =     4.4 microns
+../Jan00/1198/obsid_1198_Sky_summary.html
+ Start time =  63833866. seconds
+ Width of AX LRF at 10% of peak =   156.0 microns
+ Width of AX LRF at 50% of peak =    40.8 microns
+ Width of Streak LRF at 10% of peak =    76.8 microns
+ Width of Streak LRF at 50% of peak =    48.0 microns
+ Gaussian fit FWHM =    87.7 microns
+ Gaussian fit FWHM =    45.4 microns
+        FWHM error =     0.6 microns
+        FWHM error =     3.4 microns
+../May00/1703/obsid_1703_Sky_summary.html
+ Start time =  76126901. seconds
+ Width of AX LRF at 10% of peak =   254.4 microns
+ Width of AX LRF at 50% of peak =    81.6 microns
+ Width of Streak LRF at 10% of peak =   110.4 microns
+ Width of Streak LRF at 50% of peak =    57.6 microns
+ Gaussian fit FWHM =   142.6 microns
+ Gaussian fit FWHM =    56.0 microns
+        FWHM error =     0.9 microns
+        FWHM error =     3.3 microns
+../Nov99/0055/obsid_0055_Sky_summary.html
+ Start time =  58629336. seconds
+ Width of AX LRF at 10% of peak =   444.0 microns
+ Width of AX LRF at 50% of peak =   170.4 microns
+ Width of Streak LRF at 10% of peak =   100.8 microns
+ Width of Streak LRF at 50% of peak =    43.2 microns
+ Gaussian fit FWHM =   267.7 microns
+ Gaussian fit FWHM =    54.4 microns
+        FWHM error =     1.8 microns
+        FWHM error =     0.6 microns
+../Dec00/2335/obsid_2335_Sky_summary.html
+ Start time =  92473020. seconds
+ Width of AX LRF at 10% of peak =   177.6 microns
+ Width of AX LRF at 50% of peak =    48.0 microns
+ Width of Streak LRF at 10% of peak =    96.0 microns
+ Width of Streak LRF at 50% of peak =    43.2 microns
+ Gaussian fit FWHM =   103.0 microns
+ Gaussian fit FWHM =    54.5 microns
+        FWHM error =     0.6 microns
+        FWHM error =     2.2 microns
+../Apr01/2297/obsid_2297_Sky_summary.html
+ Start time =  1.0298691e+08 seconds
+ Width of AX LRF at 10% of peak =    79.2 microns
+ Width of AX LRF at 50% of peak =    38.4 microns
+ Gaussian fit FWHM =    44.6 microns
+        FWHM error =     0.5 microns
+../Jun01/2464/obsid_2464_Sky_summary.html
+ Start time =  1.0883564e+08 seconds
+ Width of AX LRF at 10% of peak =   163.2 microns
+ Width of AX LRF at 50% of peak =    52.8 microns
+ Width of Streak LRF at 10% of peak =    96.0 microns
+ Width of Streak LRF at 50% of peak =    38.4 microns
+ Gaussian fit FWHM =    89.2 microns
+ Gaussian fit FWHM =    51.7 microns
+        FWHM error =     0.6 microns
+        FWHM error =     2.5 microns
+../Jun01/2471/obsid_2471_Sky_summary.html
+ Start time =  1.0902357e+08 seconds
+ Width of AX LRF at 10% of peak =   160.8 microns
+ Width of AX LRF at 50% of peak =    52.8 microns
+ Width of Streak LRF at 10% of peak =    86.4 microns
+ Width of Streak LRF at 50% of peak =    14.4 microns
+ Gaussian fit FWHM =    89.8 microns
+ Gaussian fit FWHM =    57.8 microns
+        FWHM error =     0.6 microns
+        FWHM error =     5.9 microns
+../Nov01/3168/obsid_3168_Sky_summary.html
+ Start time =  1.2350586e+08 seconds
+ Width of AX LRF at 10% of peak =   247.2 microns
+ Width of AX LRF at 50% of peak =    88.8 microns
+ Gaussian fit FWHM =   144.8 microns
+        FWHM error =     0.7 microns
+../May02/3661/obsid_3661_Sky_summary.html
+ Start time =  1.3781069e+08 seconds
+ Width of AX LRF at 10% of peak =  2380.8 microns
+ Width of AX LRF at 50% of peak =   189.6 microns
+ Width of Streak LRF at 10% of peak =   100.8 microns
+ Width of Streak LRF at 50% of peak =    38.4 microns
+ Gaussian fit FWHM =   192.5 microns
+ Gaussian fit FWHM =    57.5 microns
+        FWHM error =     2.4 microns
+        FWHM error =     1.2 microns
+../Jun02/3668/obsid_3668_Sky_summary.html
+ Start time =  1.4020503e+08 seconds
+ Width of AX LRF at 10% of peak =   259.2 microns
+ Width of AX LRF at 50% of peak =    93.6 microns
+ Gaussian fit FWHM =   146.0 microns
+        FWHM error =     1.0 microns
+../Jun02/3669/obsid_3669_Sky_summary.html
+ Start time =  1.4022022e+08 seconds
+ Width of AX LRF at 10% of peak =   208.8 microns
+ Width of AX LRF at 50% of peak =   124.8 microns
+ Gaussian fit FWHM =   117.2 microns
+        FWHM error =     0.0 microns
+../Jul02/3089/obsid_3089_Sky_summary.html
+ Start time =  1.4201390e+08 seconds
+ Width of AX LRF at 10% of peak =   144.0 microns
+ Width of AX LRF at 50% of peak =    45.6 microns
+ Width of Streak LRF at 10% of peak =  2793.6 microns
+ Width of Streak LRF at 50% of peak =    48.0 microns
+ Gaussian fit FWHM =    76.1 microns
+ Gaussian fit FWHM =    55.8 microns
+        FWHM error =     0.5 microns
+        FWHM error =     1.7 microns
+../Aug02/2746/obsid_2746_Sky_summary.html
+ Start time =  1.4592360e+08 seconds
+ Width of AX LRF at 10% of peak =   105.6 microns
+ Width of AX LRF at 50% of peak =    45.6 microns
+ Gaussian fit FWHM =    58.4 microns
+        FWHM error =     0.2 microns
+../Nov02/3707/obsid_3707_Sky_summary.html
+ Start time =  1.5502618e+08 seconds
+ Width of AX LRF at 10% of peak =   110.4 microns
+ Width of AX LRF at 50% of peak =    45.6 microns
+ Gaussian fit FWHM =    62.9 microns
+        FWHM error =     0.3 microns
+../Jul03/4431/obsid_4431_Sky_summary.html
+ Start time =  1.7399754e+08 seconds
+ Width of AX LRF at 10% of peak =   136.8 microns
+ Width of AX LRF at 50% of peak =    55.2 microns
+ Gaussian fit FWHM =    74.5 microns
+        FWHM error =     0.4 microns
+../Dec03/4416/obsid_4416_Sky_summary.html
+ Start time =  1.8795092e+08 seconds
+ Width of AX LRF at 10% of peak =   139.2 microns
+ Width of AX LRF at 50% of peak =    52.8 microns
+ Gaussian fit FWHM =    81.3 microns
+        FWHM error =     0.3 microns
+../May04/5318/obsid_5318_Sky_summary.html
+ Start time =  2.0024347e+08 seconds
+ Width of AX LRF at 10% of peak =  2616.0 microns
+ Width of AX LRF at 50% of peak =   220.8 microns
+ Gaussian fit FWHM =   238.8 microns
+        FWHM error =     0.8 microns
+../Jun04/4880/obsid_4880_Sky_summary.html
+ Start time =  2.0417537e+08 seconds
+ Width of AX LRF at 10% of peak =    93.6 microns
+ Width of AX LRF at 50% of peak =    45.6 microns
+ Gaussian fit FWHM =    52.9 microns
+        FWHM error =     0.5 microns
+../Jun04/5329/obsid_5329_Sky_summary.html
+ Start time =  2.0435110e+08 seconds
+ Width of AX LRF at 10% of peak =    98.4 microns
+ Width of AX LRF at 50% of peak =    45.6 microns
+ Gaussian fit FWHM =    54.9 microns
+        FWHM error =     0.3 microns
+../Jun04/5330/obsid_5330_Sky_summary.html
+ Start time =  2.0457711e+08 seconds
+ Width of AX LRF at 10% of peak =    93.6 microns
+ Width of AX LRF at 50% of peak =    43.2 microns
+ Gaussian fit FWHM =    53.2 microns
+        FWHM error =     0.3 microns
+../Jun04/5170/obsid_5170_Sky_summary.html
+ Start time =  2.0501922e+08 seconds
+ Width of AX LRF at 10% of peak =   115.2 microns
+ Width of AX LRF at 50% of peak =    48.0 microns
+ Gaussian fit FWHM =    62.9 microns
+        FWHM error =     0.3 microns
+../Aug04/4640/obsid_4640_Sky_summary.html
+ Start time =  2.0988661e+08 seconds
+ Width of AX LRF at 10% of peak =   132.0 microns
+ Width of AX LRF at 50% of peak =    76.8 microns
+ Width of Streak LRF at 10% of peak =   979.2 microns
+ Width of Streak LRF at 50% of peak =   979.2 microns
+ Gaussian fit FWHM =    74.5 microns
+ Gaussian fit FWHM =  5306.8 microns
+        FWHM error =     1.0 microns
+        FWHM error = 15378.2 microns
+../Aug04/5362/obsid_5362_Sky_summary.html
+ Start time =  2.1001075e+08 seconds
+ Width of AX LRF at 10% of peak =   139.2 microns
+ Width of AX LRF at 50% of peak =    79.2 microns
+ Width of Streak LRF at 10% of peak =  1176.0 microns
+ Width of Streak LRF at 50% of peak =   110.4 microns
+ Gaussian fit FWHM =    74.4 microns
+ Gaussian fit FWHM =   890.9 microns
+        FWHM error =     0.0 microns
+        FWHM error =  1901.1 microns
+../Aug04/4641/obsid_4641_Sky_summary.html
+ Start time =  2.1024213e+08 seconds
+ Width of AX LRF at 10% of peak =   139.2 microns
+ Width of AX LRF at 50% of peak =    76.8 microns
+ Width of Streak LRF at 10% of peak =  1089.6 microns
+ Width of Streak LRF at 50% of peak =   120.0 microns
+ Gaussian fit FWHM =    75.3 microns
+ Gaussian fit FWHM =   102.6 microns
+        FWHM error =     0.9 microns
+        FWHM error =  1045.9 microns
+../Sep04/6099/obsid_6099_Sky_summary.html
+ Start time =  2.1046822e+08 seconds
+ Width of AX LRF at 10% of peak =   132.0 microns
+ Width of AX LRF at 50% of peak =    69.6 microns
+ Width of Streak LRF at 10% of peak =   787.2 microns
+ Width of Streak LRF at 50% of peak =    67.2 microns
+ Gaussian fit FWHM =    74.3 microns
+ Gaussian fit FWHM =     7.0 microns
+        FWHM error =     1.1 microns
+        FWHM error =    17.4 microns
+../Sep04/5363/obsid_5363_Sky_summary.html
+ Start time =  2.1073196e+08 seconds
+ Width of AX LRF at 10% of peak =   127.2 microns
+ Width of AX LRF at 50% of peak =    76.8 microns
+ Width of Streak LRF at 10% of peak =   792.0 microns
+ Width of Streak LRF at 50% of peak =   792.0 microns
+ Gaussian fit FWHM =    73.4 microns
+ Gaussian fit FWHM =  4167.7 microns
+        FWHM error =     1.2 microns
+        FWHM error =  8134.6 microns
+../Oct04/5520/obsid_5520_Sky_summary.html
+ Start time =  2.1351398e+08 seconds
+ Width of AX LRF at 10% of peak =    91.2 microns
+ Width of AX LRF at 50% of peak =    40.8 microns
+ Gaussian fit FWHM =    48.5 microns
+        FWHM error =     1.9 microns
+../Aug05/6089/obsid_6089_Sky_summary.html
+ Start time =  2.3951826e+08 seconds
+ Width of AX LRF at 10% of peak =   105.6 microns
+ Width of AX LRF at 50% of peak =    48.0 microns
+ Gaussian fit FWHM =    59.5 microns
+        FWHM error =     0.3 microns
+../Sep05/6091/obsid_6091_Sky_summary.html
+ Start time =  2.4349208e+08 seconds
+ Width of AX LRF at 10% of peak =   122.4 microns
+ Width of AX LRF at 50% of peak =    48.0 microns
+ Gaussian fit FWHM =    70.6 microns
+        FWHM error =     0.3 microns
+../Jan06/6867/obsid_6867_Sky_summary.html
+ Start time =  2.5387561e+08 seconds
+ Width of AX LRF at 10% of peak =    79.2 microns
+ Width of AX LRF at 50% of peak =    36.0 microns
+ Gaussian fit FWHM =    45.7 microns
+        FWHM error =     0.5 microns
+../Apr06/6927/obsid_6927_Sky_summary.html
+ Start time =  2.6039986e+08 seconds
+ Width of AX LRF at 10% of peak =   105.6 microns
+ Width of AX LRF at 50% of peak =    48.0 microns
+ Gaussian fit FWHM =    58.8 microns
+        FWHM error =     0.4 microns
+../Jul06/6924/obsid_6924_Sky_summary.html
+ Start time =  2.6858592e+08 seconds
+ Width of AX LRF at 10% of peak =   151.2 microns
+ Width of AX LRF at 50% of peak =    52.8 microns
+ Gaussian fit FWHM =    90.5 microns
+        FWHM error =     0.7 microns
+../Jan07/6925/obsid_6925_Sky_summary.html
+ Start time =  2.8462858e+08 seconds
+ Width of AX LRF at 10% of peak =   223.2 microns
+ Width of AX LRF at 50% of peak =    98.4 microns
+ Gaussian fit FWHM =   126.9 microns
+        FWHM error =     0.6 microns
+../Jan07/8378/obsid_8378_Sky_summary.html
+ Start time =  2.8459934e+08 seconds
+ Width of AX LRF at 10% of peak =   297.6 microns
+ Width of AX LRF at 50% of peak =   146.4 microns
+ Gaussian fit FWHM =   163.2 microns
+        FWHM error =     0.7 microns
+../Mar07/7431/obsid_7431_Sky_summary.html
+ Start time =  2.8955107e+08 seconds
+ Width of AX LRF at 10% of peak =   100.8 microns
+ Width of AX LRF at 50% of peak =    40.8 microns
+ Gaussian fit FWHM =    55.2 microns
+        FWHM error =     1.3 microns
+../Mar07/8522/obsid_8522_Sky_summary.html
+ Start time =  2.8979648e+08 seconds
+ Width of AX LRF at 10% of peak =   100.8 microns
+ Width of AX LRF at 50% of peak =    40.8 microns
+ Gaussian fit FWHM =    52.8 microns
+        FWHM error =     1.1 microns
+../Apr07/8319/obsid_8319_Sky_summary.html
+ Start time =  2.9299921e+08 seconds
+ Width of AX LRF at 10% of peak =   333.6 microns
+ Width of AX LRF at 50% of peak =   170.4 microns
+ Width of Streak LRF at 10% of peak =   124.8 microns
+ Width of Streak LRF at 50% of peak =    48.0 microns
+ Gaussian fit FWHM =   209.1 microns
+ Gaussian fit FWHM =    67.4 microns
+        FWHM error =     1.2 microns
+        FWHM error =     0.8 microns
+../Sep07/9590/obsid_9590_Sky_summary.html
+ Start time =  3.0631444e+08 seconds
+ Width of AX LRF at 10% of peak =   144.0 microns
+ Width of AX LRF at 50% of peak =    79.2 microns
+ Width of Streak LRF at 10% of peak =  4891.2 microns
+ Width of Streak LRF at 50% of peak =  1272.0 microns
+ Gaussian fit FWHM =    80.4 microns
+ Gaussian fit FWHM =  4014.5 microns
+        FWHM error =     1.1 microns
+        FWHM error =   401.2 microns
+../Sep07/9589/obsid_9589_Sky_summary.html
+ Start time =  3.0619685e+08 seconds
+ Width of AX LRF at 10% of peak =   144.0 microns
+ Width of AX LRF at 50% of peak =    79.2 microns
+ Width of Streak LRF at 10% of peak =  5078.4 microns
+ Width of Streak LRF at 50% of peak =   998.4 microns
+ Gaussian fit FWHM =    80.5 microns
+ Gaussian fit FWHM =  3812.2 microns
+        FWHM error =     0.9 microns
+        FWHM error =   318.4 microns
+../Sep07/9592/obsid_9592_Sky_summary.html
+ Start time =  3.0602611e+08 seconds
+ Width of AX LRF at 10% of peak =   139.2 microns
+ Width of AX LRF at 50% of peak =    74.4 microns
+ Width of Streak LRF at 10% of peak =  4958.4 microns
+ Width of Streak LRF at 50% of peak =   566.4 microns
+ Gaussian fit FWHM =    79.2 microns
+ Gaussian fit FWHM =  4733.3 microns
+        FWHM error =     1.5 microns
+        FWHM error =   937.7 microns
+../Sep07/9591/obsid_9591_Sky_summary.html
+ Start time =  3.0596865e+08 seconds
+ Width of AX LRF at 10% of peak =   134.4 microns
+ Width of AX LRF at 50% of peak =    64.8 microns
+ Width of Streak LRF at 10% of peak =  4958.4 microns
+ Width of Streak LRF at 50% of peak =   585.6 microns
+ Gaussian fit FWHM =    77.7 microns
+ Gaussian fit FWHM =  3735.9 microns
+        FWHM error =     0.1 microns
+        FWHM error =   606.1 microns
+../Sep07/7621/obsid_7621_Sky_summary.html
+ Start time =  3.0586419e+08 seconds
+ Width of AX LRF at 10% of peak =   141.6 microns
+ Width of AX LRF at 50% of peak =    74.4 microns
+ Width of Streak LRF at 10% of peak =  4934.4 microns
+ Width of Streak LRF at 50% of peak =   408.0 microns
+ Gaussian fit FWHM =    77.8 microns
+ Gaussian fit FWHM =  3572.6 microns
+        FWHM error =     0.9 microns
+        FWHM error =   329.0 microns
+../Sep07/7620/obsid_7620_Sky_summary.html
+ Start time =  3.0573732e+08 seconds
+ Width of AX LRF at 10% of peak =   141.6 microns
+ Width of AX LRF at 50% of peak =    81.6 microns
+ Width of Streak LRF at 10% of peak =  4852.8 microns
+ Width of Streak LRF at 50% of peak =   542.4 microns
+ Gaussian fit FWHM =    80.1 microns
+ Gaussian fit FWHM =  3753.3 microns
+        FWHM error =     0.9 microns
+        FWHM error =   385.6 microns
+../Sep07/9580/obsid_9580_Sky_summary.html
+ Start time =  3.0553454e+08 seconds
+ Width of AX LRF at 10% of peak =   144.0 microns
+ Width of AX LRF at 50% of peak =    81.6 microns
+ Width of Streak LRF at 10% of peak =  5414.4 microns
+ Width of Streak LRF at 50% of peak =  1761.6 microns
+ Gaussian fit FWHM =    80.0 microns
+ Gaussian fit FWHM =  3365.4 microns
+        FWHM error =     0.9 microns
+        FWHM error =   274.3 microns
+../Sep07/9582/obsid_9582_Sky_summary.html
+ Start time =  3.0539990e+08 seconds
+ Width of AX LRF at 10% of peak =   139.2 microns
+ Width of AX LRF at 50% of peak =    79.2 microns
+ Width of Streak LRF at 10% of peak =  5227.2 microns
+ Width of Streak LRF at 50% of peak =   729.6 microns
+ Gaussian fit FWHM =    78.5 microns
+ Gaussian fit FWHM =  3376.0 microns
+        FWHM error =     0.8 microns
+        FWHM error =   217.0 microns
+../Sep07/9581/obsid_9581_Sky_summary.html
+ Start time =  3.0528335e+08 seconds
+ Width of AX LRF at 10% of peak =   136.8 microns
+ Width of AX LRF at 50% of peak =    79.2 microns
+ Width of Streak LRF at 10% of peak =  5222.4 microns
+ Width of Streak LRF at 50% of peak =   787.2 microns
+ Gaussian fit FWHM =    80.8 microns
+ Gaussian fit FWHM =  3600.6 microns
+        FWHM error =     0.8 microns
+        FWHM error =   198.8 microns
+../Jun08/9713/obsid_9713_Sky_summary.html
+ Start time =  3.3115361e+08 seconds
+ Width of AX LRF at 10% of peak =   132.0 microns
+ Width of AX LRF at 50% of peak =    50.4 microns
+ Gaussian fit FWHM =    74.5 microns
+        FWHM error =     0.3 microns
+../Jul08/9706/obsid_9706_Sky_summary.html
+ Start time =  3.3138591e+08 seconds
+ Width of AX LRF at 10% of peak =   146.4 microns
+ Width of AX LRF at 50% of peak =    50.4 microns
+ Gaussian fit FWHM =    82.1 microns
+        FWHM error =     0.7 microns
+../Jul08/9708/obsid_9708_Sky_summary.html
+ Start time =  3.3140766e+08 seconds
+ Width of AX LRF at 10% of peak =   144.0 microns
+ Width of AX LRF at 50% of peak =    52.8 microns
+ Gaussian fit FWHM =    81.3 microns
+        FWHM error =     0.7 microns
+../Jul08/9710/obsid_9710_Sky_summary.html
+ Start time =  3.3142911e+08 seconds
+ Width of AX LRF at 10% of peak =   141.6 microns
+ Width of AX LRF at 50% of peak =    48.0 microns
+ Gaussian fit FWHM =    78.1 microns
+        FWHM error =     0.6 microns
+../Nov09/10664/obsid_10664_Sky_summary.html
+ Start time =  3.7404537e+08 seconds
+ Width of AX LRF at 10% of peak =  1636.8 microns
+ Width of AX LRF at 50% of peak =   201.6 microns
+ Gaussian fit FWHM =   214.6 microns
+        FWHM error =     1.1 microns
+../Nov09/11605/obsid_11605_Sky_summary.html
+ Start time =  3.7473164e+08 seconds
+ Width of AX LRF at 10% of peak =  2030.4 microns
+ Width of AX LRF at 50% of peak =   204.0 microns
+ Gaussian fit FWHM =   209.1 microns
+        FWHM error =     2.2 microns
+../Nov09/11606/obsid_11606_Sky_summary.html
+ Start time =  3.7496049e+08 seconds
+ Width of AX LRF at 10% of peak =  1336.8 microns
+ Width of AX LRF at 50% of peak =   187.2 microns
+ Gaussian fit FWHM =   206.7 microns
+        FWHM error =     2.3 microns
+../Nov09/11607/obsid_11607_Sky_summary.html
+ Start time =  3.7526940e+08 seconds
+ Width of AX LRF at 10% of peak =   984.0 microns
+ Width of AX LRF at 50% of peak =   194.4 microns
+ Gaussian fit FWHM =   201.6 microns
+        FWHM error =     2.1 microns
+../Apr10/11965/obsid_11965_Sky_summary.html
+ Start time =  3.8889454e+08 seconds
+ Width of AX LRF at 10% of peak =   108.0 microns
+ Width of AX LRF at 50% of peak =    48.0 microns
+ Gaussian fit FWHM =    59.6 microns
+        FWHM error =     0.3 microns
+../Feb10/11960/obsid_11960_Sky_summary.html
+ Start time =  3.8146982e+08 seconds
+ Width of AX LRF at 10% of peak =  1749.6 microns
+ Width of AX LRF at 50% of peak =   141.6 microns
+ Width of Streak LRF at 10% of peak =  1521.6 microns
+ Width of Streak LRF at 50% of peak =    57.6 microns
+ Gaussian fit FWHM =   161.6 microns
+ Gaussian fit FWHM =    70.1 microns
+        FWHM error =     2.6 microns
+        FWHM error =     2.7 microns
+../Feb10/11961/obsid_11961_Sky_summary.html
+ Start time =  3.8166163e+08 seconds
+ Width of AX LRF at 10% of peak =  2781.6 microns
+ Width of AX LRF at 50% of peak =   180.0 microns
+ Width of Streak LRF at 10% of peak =   244.8 microns
+ Width of Streak LRF at 50% of peak =    81.6 microns
+ Gaussian fit FWHM =   208.1 microns
+ Gaussian fit FWHM =    92.1 microns
+        FWHM error =     2.0 microns
+        FWHM error =     1.7 microns
+../Feb10/11962/obsid_11962_Sky_summary.html
+ Start time =  3.8168255e+08 seconds
+ Width of AX LRF at 10% of peak =  1130.4 microns
+ Width of AX LRF at 50% of peak =   340.8 microns
+ Width of Streak LRF at 10% of peak =  1219.2 microns
+ Width of Streak LRF at 50% of peak =   124.8 microns
+ Gaussian fit FWHM =   271.8 microns
+ Gaussian fit FWHM =   192.2 microns
+        FWHM error =     0.9 microns
+        FWHM error =     3.7 microns
+../Feb10/11963/obsid_11963_Sky_summary.html
+ Start time =  3.8183512e+08 seconds
+ Width of AX LRF at 10% of peak =  2772.0 microns
+ Width of AX LRF at 50% of peak =   160.8 microns
+ Width of Streak LRF at 10% of peak =  2716.8 microns
+ Width of Streak LRF at 50% of peak =    57.6 microns
+ Gaussian fit FWHM =   184.1 microns
+ Gaussian fit FWHM =    87.1 microns
+        FWHM error =     1.9 microns
+        FWHM error =     3.6 microns
+../Feb10/11964/obsid_11964_Sky_summary.html
+ Start time =  3.8185603e+08 seconds
+ Width of AX LRF at 10% of peak =  2541.6 microns
+ Width of AX LRF at 50% of peak =   146.4 microns
+ Width of Streak LRF at 10% of peak =   278.4 microns
+ Width of Streak LRF at 50% of peak =    67.2 microns
+ Gaussian fit FWHM =   167.4 microns
+ Gaussian fit FWHM =    92.7 microns
+        FWHM error =     1.7 microns
+        FWHM error =     1.9 microns
+../Feb10/11967/obsid_11967_Sky_summary.html
+ Start time =  3.8187653e+08 seconds
+ Width of AX LRF at 10% of peak =   408.0 microns
+ Width of AX LRF at 50% of peak =   240.0 microns
+ Width of Streak LRF at 10% of peak =  4684.8 microns
+ Width of Streak LRF at 50% of peak =   124.8 microns
+ Gaussian fit FWHM =   224.3 microns
+ Gaussian fit FWHM =   196.7 microns
+        FWHM error =     1.0 microns
+        FWHM error =     6.7 microns
+../Mar10/10668/obsid_10668_Sky_summary.html
+ Start time =  3.8489576e+08 seconds
+ Width of AX LRF at 10% of peak =  2457.6 microns
+ Width of AX LRF at 50% of peak =   211.2 microns
+ Gaussian fit FWHM =   229.2 microns
+        FWHM error =     1.5 microns
+../Mar10/11966/obsid_11966_Sky_summary.html
+ Start time =  3.8491759e+08 seconds
+ Width of AX LRF at 10% of peak =  2157.6 microns
+ Width of AX LRF at 50% of peak =   182.4 microns
+ Gaussian fit FWHM =   193.4 microns
+        FWHM error =     0.8 microns
+../Mar10/11970/obsid_11970_Sky_summary.html
+ Start time =  3.8485191e+08 seconds
+ Width of AX LRF at 10% of peak =  2253.6 microns
+ Width of AX LRF at 50% of peak =   208.8 microns
+ Gaussian fit FWHM =   223.8 microns
+        FWHM error =     1.7 microns
+../Mar10/12121/obsid_12121_Sky_summary.html
+ Start time =  3.8487383e+08 seconds
+ Width of AX LRF at 10% of peak =  1560.0 microns
+ Width of AX LRF at 50% of peak =   204.0 microns
+ Gaussian fit FWHM =   219.3 microns
+        FWHM error =     1.5 microns
+../Jul10/11972/obsid_11972_Sky_summary.html
+ Start time =  3.9513277e+08 seconds
+ Width of AX LRF at 10% of peak =   117.6 microns
+ Width of AX LRF at 50% of peak =    48.0 microns
+ Gaussian fit FWHM =    67.6 microns
+        FWHM error =     0.4 microns
+../Jul10/11974/obsid_11974_Sky_summary.html
+ Start time =  3.9515400e+08 seconds
+ Width of AX LRF at 10% of peak =   676.8 microns
+ Width of AX LRF at 50% of peak =   247.2 microns
+ Gaussian fit FWHM =   389.1 microns
+        FWHM error =     2.8 microns
+../Aug10/12295/obsid_12295_Sky_summary.html
+ Start time =  3.9809289e+08 seconds
+ Width of AX LRF at 10% of peak =    98.4 microns
+ Width of AX LRF at 50% of peak =    45.6 microns
+ Gaussian fit FWHM =    55.2 microns
+        FWHM error =     0.2 microns
+../Aug10/12296/obsid_12296_Sky_summary.html
+ Start time =  3.9724941e+08 seconds
+ Width of AX LRF at 10% of peak =   103.2 microns
+ Width of AX LRF at 50% of peak =    50.4 microns
+ Gaussian fit FWHM =    55.8 microns
+        FWHM error =     0.3 microns
+../Aug10/13019/obsid_13019_Sky_summary.html
+ Start time =  3.9743753e+08 seconds
+ Width of AX LRF at 10% of peak =    93.6 microns
+ Width of AX LRF at 50% of peak =    48.0 microns
+ Gaussian fit FWHM =    53.7 microns
+        FWHM error =     0.2 microns
+../Aug10/13022/obsid_13022_Sky_summary.html
+ Start time =  3.9792463e+08 seconds
+ Width of AX LRF at 10% of peak =   100.8 microns
+ Width of AX LRF at 50% of peak =    45.6 microns
+ Gaussian fit FWHM =    55.3 microns
+        FWHM error =     0.3 microns
+../Apr11/13096/obsid_13096_Sky_summary.html
+ Start time =  4.2024826e+08 seconds
+ Width of AX LRF at 10% of peak =   112.8 microns
+ Width of AX LRF at 50% of peak =    45.6 microns
+ Gaussian fit FWHM =    62.4 microns
+        FWHM error =     0.3 microns
+../Apr11/13250/obsid_13250_Sky_summary.html
+ Start time =  4.1908324e+08 seconds
+ Width of AX LRF at 10% of peak =    88.8 microns
+ Width of AX LRF at 50% of peak =    38.4 microns
+ Gaussian fit FWHM =    50.7 microns
+        FWHM error =     0.9 microns
+../Feb11/13097/obsid_13097_Sky_summary.html
+ Start time =  4.1426968e+08 seconds
+ Width of AX LRF at 10% of peak =    98.4 microns
+ Width of AX LRF at 50% of peak =    48.0 microns
+ Gaussian fit FWHM =    55.5 microns
+        FWHM error =     0.4 microns
+../Mar11/12444/obsid_12444_Sky_summary.html
+ Start time =  4.1593708e+08 seconds
+ Width of AX LRF at 10% of peak =   117.6 microns
+ Width of AX LRF at 50% of peak =    57.6 microns
+ Gaussian fit FWHM =    65.0 microns
+        FWHM error =     0.0 microns
+../Jun11/12349/obsid_12349_Sky_summary.html
+ Start time =  4.2567499e+08 seconds
+ Width of AX LRF at 10% of peak =  2167.2 microns
+ Width of AX LRF at 50% of peak =   480.0 microns
+ Gaussian fit FWHM =   274.4 microns
+        FWHM error =   794.5 microns
+../Jun11/12350/obsid_12350_Sky_summary.html
+ Start time =  4.2529631e+08 seconds
+ Width of AX LRF at 10% of peak =  1288.8 microns
+ Width of AX LRF at 50% of peak =   129.6 microns
+ Gaussian fit FWHM =    75.9 microns
+        FWHM error =   409.0 microns
+../Jun11/13198/obsid_13198_Sky_summary.html
+ Start time =  4.2407843e+08 seconds
+ Width of AX LRF at 10% of peak =   552.0 microns
+ Width of AX LRF at 50% of peak =    26.4 microns
+ Gaussian fit FWHM =    74.9 microns
+        FWHM error =   338.4 microns
+../Jun11/13422/obsid_13422_Sky_summary.html
+ Start time =  4.2550650e+08 seconds
+ Width of AX LRF at 10% of peak =   612.0 microns
+ Width of AX LRF at 50% of peak =   612.0 microns
+ Gaussian fit FWHM =   343.4 microns
+        FWHM error =  4819.5 microns
+../Jul11/13099/obsid_13099_Sky_summary.html
+ Start time =  4.2615130e+08 seconds
+ Width of AX LRF at 10% of peak =   175.2 microns
+ Width of AX LRF at 50% of peak =    33.6 microns
+ Gaussian fit FWHM =   113.1 microns
+        FWHM error =     1.0 microns
+../Jul11/13101/obsid_13101_Sky_summary.html
+ Start time =  4.2617306e+08 seconds
+ Width of AX LRF at 10% of peak =   194.4 microns
+ Width of AX LRF at 50% of peak =    40.8 microns
+ Gaussian fit FWHM =   119.5 microns
+        FWHM error =     1.1 microns
+../Jul11/13103/obsid_13103_Sky_summary.html
+ Start time =  4.2619451e+08 seconds
+ Width of AX LRF at 10% of peak =   208.8 microns
+ Width of AX LRF at 50% of peak =    38.4 microns
+ Gaussian fit FWHM =   132.7 microns
+        FWHM error =     1.2 microns
+../Nov11/13718/obsid_13718_Sky_summary.html
+ Start time =  4.3710036e+08 seconds
+../Apr12/14265/obsid_14265_Sky_summary.html
+ Start time =  4.5198908e+08 seconds
+ Width of AX LRF at 10% of peak =    91.2 microns
+ Width of AX LRF at 50% of peak =    38.4 microns
+ Gaussian fit FWHM =    51.4 microns
+        FWHM error =     0.4 microns
+../Apr12/14266/obsid_14266_Sky_summary.html
+ Start time =  4.5021869e+08 seconds
+ Width of AX LRF at 10% of peak =   105.6 microns
+ Width of AX LRF at 50% of peak =    36.0 microns
+ Gaussian fit FWHM =    60.3 microns
+        FWHM error =     0.3 microns
+../Jul12/14321/obsid_14321_Sky_summary.html
+ Start time =  4.5774137e+08 seconds
+ Width of AX LRF at 10% of peak =   187.2 microns
+ Width of AX LRF at 50% of peak =    38.4 microns
+ Gaussian fit FWHM =   116.4 microns
+        FWHM error =     1.0 microns
+../Jul12/14325/obsid_14325_Sky_summary.html
+ Start time =  4.5777380e+08 seconds
+ Width of AX LRF at 10% of peak =   189.6 microns
+ Width of AX LRF at 50% of peak =    36.0 microns
+ Gaussian fit FWHM =   120.1 microns
+        FWHM error =     1.0 microns
+../Aug12/14267/obsid_14267_Sky_summary.html
+ Start time =  4.6040463e+08 seconds
+ Width of AX LRF at 10% of peak =   494.4 microns
+ Width of AX LRF at 50% of peak =    43.2 microns
+ Gaussian fit FWHM =     6.0 microns
+        FWHM error =   449.1 microns

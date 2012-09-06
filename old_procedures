@@ -1,0 +1,50 @@
+Gratings Manual Processing Procedures
+/data/mta/www/mta_grat/README
+
+- find new gratings obs
+    ls -l $cache/*/acis/*evt1a* | more
+    ls -l $cache/*/hrc/*evt1a* | more
+  recent obs written on brad's whiteboard
+
+- cp new level 1.5 evt files to /data/mta/www/mta_grat
+
+- cd to /data/mta/www/mta_grat
+
+- add entries for each image in command.pro
+    - filename
+    - directory (make new monthly directory if necessary)
+    - roll angle (- ROLL_PNT)
+    - detector
+    - grating
+    - cc_mode_flag (ask brad if cc_mode)
+
+- run   idl> @command
+  click on zero order when prompted
+
+- add entries in obs2html.lst
+  (the order that things appear in this file is
+   important, most recent obs listed first)
+  run idl> obs2html
+
+- mark on brad's hardcopy (bulletin board) and whiteboard
+
+- if analysis is OK add entries to
+   1) Zero/obslist - OK if zero order is identified.  If not, the rest
+                  are not OK either.
+                  (Determine Zero-order...  section)
+   2) Angles/obslist - OK if angles are identified, just that you can see
+                    them in plot, don't pay attention to fit line.
+                    (Measure Grating Angle(s)..  section)
+   3) Focus/obslist - OK if there is a good fit to zero order and streak
+                 (Detailed Examine Zero-order Spatial...  section)
+                 (No streak for HRC)
+   4) EdE/obslist - OK if there are clear lines with good fits 
+                 (Outputing Histograms of Spectra...  section)
+  (order not important)
+
+At end of month:
+- run  >update
+  calls Zero/zo_loc.pro
+        Angles/angles.pro
+        obs2html.pro
+      to update web pages
